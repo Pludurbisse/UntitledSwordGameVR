@@ -3,7 +3,7 @@ title: "Beat Saber Like" - Expérience de jeu
 version: 1.1
 ---
 
-# Content
+# Expérience de jeu
 
 <!-- toc -->
 

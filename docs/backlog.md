@@ -1,4 +1,4 @@
-# Untitled Sword Game - Backlog
+# Backlog
 
 ## Tasks
 #### Déterminer la DA

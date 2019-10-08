@@ -1,9 +1,4 @@
----
-title: "Beat Saber" - Backlog
----
-
-# Content
-
+# Untitled Sword Game - Backlog
 
 ## Tasks
 #### Déterminer la DA

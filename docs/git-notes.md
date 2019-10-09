@@ -1,8 +1,4 @@
----
-title: Git Notes
----
-
-# Content
+# Git Notes
 
 <!-- toc -->
 

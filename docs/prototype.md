@@ -1,8 +1,4 @@
----
-title: BeatSaber - Prototype
----
-
-# Content
+# Prototype
 
 <!-- toc -->
 

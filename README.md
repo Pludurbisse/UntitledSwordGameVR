@@ -1,4 +1,4 @@
-# UntitledSwordGameVR
+# Untitled Sword Game VR
 
 ## Docs
 - [Backlog](docs/backlog.md)

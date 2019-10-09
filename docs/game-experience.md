@@ -45,12 +45,12 @@
 
 ## Références
 ### Musique
-Hotline Miami
-Carpenter Brut
-Lazer Hawk
-Danger - 4h30
-Perturbator
+- Hotline Miami
+- Carpenter Brut
+- Lazer Hawk
+- Danger - 4h30
+- Perturbator
 
 ### Graphismes
-Far Cry Blood Dragon (grpahismes)
-Lethal League Blaze (décor qui est influencé selon le score)
+- Far Cry Blood Dragon (grpahismes)
+- Lethal League Blaze (décor qui est influencé selon le score)

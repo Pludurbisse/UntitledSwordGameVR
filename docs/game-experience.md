@@ -16,6 +16,7 @@
 - plaisir de joueur au rythme avec la musique (bliss)
 - se sentir en symbiose avec la musique (fusion)
 - ~~chef d'orchestre~~
+- ~~intelligence~~
 - impression d'avoir un impact sur le gameplay (impact, influence)
 - reproduir expérience des années '80 (atmosphere, immersion)
 

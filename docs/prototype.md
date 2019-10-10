@@ -39,7 +39,7 @@ Seulement, lorsque les ennemis apparaissent dans le champ de vision il ne sont p
 Plus tard, selon de le rythme de la musique, les ennemis seront vulnerables et le joueur devra les détruire sinon il sera pénalisé dans le gameplay.\
 Le joueur a un nombre de vie prédéfini, qui diminuera à chaque fois qu'il sera pénalisé.\
 Le joueur doit trancher l'ennemi selon cette oriention.\
-La condition de défaite est lorsque le joueur n'a plus de vies.\
+La condition de défaite est lorsque le joueur n'a plus de vies.
 
 
 
